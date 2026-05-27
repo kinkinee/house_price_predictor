@@ -22,8 +22,12 @@ Tech Stack
 
 Dataset
 Bengaluru Housing Dataset from Kaggle.
+Dataset Link: https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data
 
 Model Performance
+- MAE : 20.6366
+- MSE : 1273.2268
+- RMSE : 35.6823
 - R² Score: 73.13%
 
 Run Locally
