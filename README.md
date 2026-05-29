@@ -2,7 +2,7 @@
 
 A machine learning-based web application for predicting Bengaluru house prices using XGBoost and Streamlit.
 
-## Machine Learning Model Used:
+## Machine Learning Model Used  
 ### Regression Model
 - XGBoost Regressor
 
